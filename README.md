@@ -33,9 +33,11 @@ I'm a **Software Engineer** passionate about designing scalable backend systems 
 > Aspiring Software Engineer seeking opportunities to contribute to scalable and impactful software solutions using Java, Spring Boot, and AI technologies.
 
 ### 📌 Quick Facts
-- 🎓 **B.Tech in Computer Science (Data Science)** – R.C.Patel Institute of Technology, Shirpur (2023-2027) | **CGPA: 7.57**
+- 🎓 **B.Tech in Computer Science (Data Science)** – R.C.Patel Institute of Technology, Shirpur (2023–2027) | **CGPA: 7.57**
 - 🏆 **2nd Place** in Strangers Code Competition (Inter-College)
 - 🚀 **A+ Grade** in Java Developer Training at R3SYS INDIA PVT LTD
+- 💻 **2300+** problems solved on CodeChef
+- 💻 **70+** problems solved on LeetCode
 
 ### 🛠️ My Development Philosophy
 - Clean, maintainable code is as important as functional code
@@ -60,7 +62,7 @@ I'm a **Software Engineer** passionate about designing scalable backend systems 
   <a href="https://www.codechef.com/users/rcp_231106012">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
   </a>
-  <a href="https://github.com/Udaypatil9027/UdayPatil">
+  <a href="https://github.com/Udaypatil9027">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://your-portfolio-link.com">
@@ -92,6 +94,8 @@ I'm a **Software Engineer** passionate about designing scalable backend systems 
 
 ### 🔷 Frontend
 <p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
@@ -195,7 +199,7 @@ I'm a **Software Engineer** passionate about designing scalable backend systems 
 
 ## 💻 Coding Profiles
 
-### 🏆 LeetCode (Live)
+### 🏆 LeetCode (Live Stats)
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Uday_Patil_231106012?theme=dark&font=Inter&ext=heatmap" alt="LeetCode Stats" width="45%"/>
 </p>
