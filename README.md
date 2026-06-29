@@ -35,8 +35,6 @@ I'm a **Software Engineer** passionate about designing scalable backend systems 
 ### 📌 Quick Facts
 - 🎓 **B.Tech in Computer Science (Data Science)** – R.C.Patel Institute of Technology, Shirpur (2023-2027) | **CGPA: 7.57**
 - 🏆 **2nd Place** in Strangers Code Competition (Inter-College)
-- 💻 **2300+** Problems Solved on CodeChef
-- 💻 **70+** Problems Solved on LeetCode
 - 🚀 **A+ Grade** in Java Developer Training at R3SYS INDIA PVT LTD
 
 ### 🛠️ My Development Philosophy
@@ -62,7 +60,7 @@ I'm a **Software Engineer** passionate about designing scalable backend systems 
   <a href="https://www.codechef.com/users/rcp_231106012">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
   </a>
-  <a href="https://github.com/Udaypatil9027">
+  <a href="https://github.com/Udaypatil9027/UdayPatil">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://your-portfolio-link.com">
