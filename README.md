@@ -270,5 +270,5 @@ I'm a **Software Engineer** passionate about designing scalable backend systems 
 ---
 
 <p align="center">
-  <b>⭐ If you like my work, consider giving a star to my repositories! ⭐</b>
+  <b>⭐ If you like my work, then connect to me on Linkedin and follow on GitHub ⭐</b>
 </p>
