@@ -18,9 +18,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=udaypatil-dev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/udaypatil-dev?label=Followers&style=social" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/udaypatil-dev?label=Stars&style=social" alt="GitHub Stars" />
+  <img src="https://komarev.com/ghpvc/?username=Udaypatil9027&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Udaypatil9027?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/Udaypatil9027?label=Stars&style=social" alt="GitHub Stars" />
 </p>
 
 ---
@@ -33,7 +33,7 @@ I'm a **Software Engineer** passionate about designing scalable backend systems 
 > Aspiring Software Engineer seeking opportunities to contribute to scalable and impactful software solutions using Java, Spring Boot, and AI technologies.
 
 ### 📌 Quick Facts
-- 🎓 **B.Tech in Computer Science (Data Science)** - R.C.Patel Institute of Technology, Shirpur (2023-2027) | **CGPA: 7.57**
+- 🎓 **B.Tech in Computer Science (Data Science)** – R.C.Patel Institute of Technology, Shirpur (2023-2027) | **CGPA: 7.57**
 - 🏆 **2nd Place** in Strangers Code Competition (Inter-College)
 - 💻 **2300+** Problems Solved on CodeChef
 - 💻 **70+** Problems Solved on LeetCode
@@ -62,10 +62,10 @@ I'm a **Software Engineer** passionate about designing scalable backend systems 
   <a href="https://www.codechef.com/users/rcp_231106012">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
   </a>
-  <a href="https://github.com/udaypatil-dev">
+  <a href="https://github.com/Udaypatil9027">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://udaypatil-portfolio.vercel.app">
+  <a href="https://your-portfolio-link.com">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
@@ -176,43 +176,47 @@ I'm a **Software Engineer** passionate about designing scalable backend systems 
 
 ### 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=udaypatil-dev&theme=react-dark&bg_color=0d1117&color=00BFFF&line=00BFFF&point=FFFFFF&area=true&hide_border=true" alt="GitHub Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Udaypatil9027&theme=react-dark&bg_color=0d1117&color=00BFFF&line=00BFFF&point=FFFFFF&area=true&hide_border=true" alt="GitHub Contribution Graph"/>
 </p>
 
 ### 📊 Stats Overview
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=udaypatil-dev&show_icons=true&count_private=true&hide=issues&theme=react&bg_color=0d1117&title_color=00BFFF&icon_color=00BFFF&text_color=FFFFFF&border_radius=10&border_color=00BFFF" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=udaypatil-dev&theme=react&background=0d1117&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF&sideLabels=00BFFF&border=00BFFF&stroke=00BFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Udaypatil9027&show_icons=true&count_private=true&hide=issues&theme=react&bg_color=0d1117&title_color=00BFFF&icon_color=00BFFF&text_color=FFFFFF&border_radius=10&border_color=00BFFF" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Udaypatil9027&theme=react&background=0d1117&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF&sideLabels=00BFFF&border=00BFFF&stroke=00BFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak" width="48%"/>
 </p>
 
 ### 🏆 Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaypatil-dev&layout=compact&theme=react&bg_color=0d1117&title_color=00BFFF&text_color=FFFFFF&border_color=00BFFF&border_radius=10" alt="Top Languages" width="40%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Udaypatil9027&layout=compact&theme=react&bg_color=0d1117&title_color=00BFFF&text_color=FFFFFF&border_color=00BFFF&border_radius=10" alt="Top Languages" width="40%"/>
 </p>
 
 ### 🏅 GitHub Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=udaypatil-dev&theme=darkhub&row=2&column=4&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Achievements"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Udaypatil9027&theme=darkhub&row=2&column=4&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Achievements"/>
 </p>
 
 ---
 
 ## 💻 Coding Profiles
 
-### 🏆 LeetCode
+### 🏆 LeetCode (Live)
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Uday_Patil_231106012?theme=dark&font=Inter&ext=heatmap" alt="LeetCode Stats" width="45%"/>
 </p>
 
 ### 🏆 CodeChef
 <p align="center">
-  <img src="https://codechef-readme-stats.vercel.app/stats/rcp_231106012?theme=dark" alt="CodeChef Stats" width="45%"/>
+  <a href="https://www.codechef.com/users/rcp_231106012">
+    <img src="https://img.shields.io/badge/CodeChef-2300%2B%20Problems%20Solved-5B4638?style=for-the-badge&logo=codechef" alt="CodeChef"/>
+  </a>
+  <br>
+  <sub>Click the badge to view my CodeChef profile</sub>
 </p>
 
 ### 📊 Problem Solving Progress
 <p align="center">
-  <img src="https://img.shields.io/badge/CodeChef-2300%2B%20Problems%20Solved-5B4638?style=for-the-badge&logo=codechef"/>
-  <img src="https://img.shields.io/badge/LeetCode-70%2B%20Problems%20Solved-FFA116?style=for-the-badge&logo=leetcode"/>
+  <img src="https://img.shields.io/badge/CodeChef-2300%2B%20Solved-5B4638?style=for-the-badge&logo=codechef"/>
+  <img src="https://img.shields.io/badge/LeetCode-70%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode"/>
 </p>
 
 ---
@@ -257,7 +261,7 @@ I'm a **Software Engineer** passionate about designing scalable backend systems 
   <a href="https://www.linkedin.com/in/uday-patil-84bab1323">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/udaypatil-dev">
+  <a href="https://github.com/Udaypatil9027">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
@@ -265,7 +269,7 @@ I'm a **Software Engineer** passionate about designing scalable backend systems 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/udaypatil-dev/udaypatil-dev/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Udaypatil9027/Udaypatil9027/output/snake.svg" alt="Snake animation" />
 </p>
 
 <p align="center">
