@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="Uday Patil.png" alt="Banner" width="100%">
+</p>
 <h1 align="center">
 Hi 👋, I'm Uday Patil
 </h1>
