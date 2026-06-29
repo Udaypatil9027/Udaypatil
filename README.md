@@ -185,15 +185,6 @@ I'm a **Software Engineer** passionate about designing scalable backend systems 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Udaypatil9027&theme=react&background=0d1117&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF&sideLabels=00BFFF&border=00BFFF&stroke=00BFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak" width="48%"/>
 </p>
 
-### 🏆 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Udaypatil9027&layout=compact&theme=react&bg_color=0d1117&title_color=00BFFF&text_color=FFFFFF&border_color=00BFFF&border_radius=10" alt="Top Languages" width="40%"/>
-</p>
-
-### 🏅 GitHub Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Udaypatil9027&theme=darkhub&row=2&column=4&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Achievements"/>
-</p>
 
 ---
 
